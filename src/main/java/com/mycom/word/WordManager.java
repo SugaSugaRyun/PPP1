@@ -1,4 +1,4 @@
-package main.java.com.mycom.word;
+package com.mycom.word;
 
 import java.util.Scanner;
 
@@ -38,6 +38,12 @@ public class WordManager {
                 //create
             }
             else if(menu == 1){
+                wordCRUD.listAll();
+            }
+            else if(menu == 5){
+                wordCRUD.updateItem();
+            }
+            else if(menu == 6){
                 wordCRUD.listAll();
             }
         }
