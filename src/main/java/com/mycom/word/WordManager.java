@@ -34,7 +34,7 @@ public class WordManager {
                 break;
             }
             else if(menu == 4){
-                wordCRUD.addWord();
+                wordCRUD.addItem();
                 //create
             }
             else if(menu == 1){
@@ -44,7 +44,7 @@ public class WordManager {
                 wordCRUD.updateItem();
             }
             else if(menu == 6){
-                wordCRUD.listAll();
+                wordCRUD.deleteItem();
             }
         }
     }
