@@ -1,3 +1,7 @@
-3|superintendent|관리자, 감독관
-1|electric|전기의, 전기를 생산하는
-1| aplle|아플레
+3| superintendent|관리자, 감독관
+1| electric|전기의, 전기를 생산하는
+2| appriciate|진가를 알아보다, 고마워하다
+1| tank|(액체가스를 담는) 탱크, 완전히 망하다
+1| disarm|무장 해제시키다
+2| sharpen|날카롭게하다, 갈다
+3| tremendous|엄청난, 굉장한
